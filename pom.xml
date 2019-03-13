@@ -1,0 +1,11 @@
+<project>
+     
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.companyname.project-group</groupId>
+	
+	<artifactId>firstmavenjob</artifactId>
+	
+	<version>1.0</version>
+</project>
+
